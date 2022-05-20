@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="ediTextApellidos">Escriba sus apellido</string>
+    <string name="ediTextNombre">Escriba sus nombres</string>
+    <string name="ediTextCedula">Escriba su cedula</string>
+    <string name="buttonGuardar">Guardar</string>
+    <string name="buttonMOstrar">Mostrar</string>
+
+
+</resources>
